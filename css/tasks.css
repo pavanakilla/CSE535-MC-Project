@@ -1,0 +1,34 @@
+body {
+    padding-top: 70px;
+    background-color: black;
+    text-align: justify;
+}
+.tasks {
+    padding-bottom: 50px;
+}
+.btn {
+    width: 100%;
+}
+.description {
+    text-indent: 2em;
+}
+.project {
+    padding-left: 50px;
+}
+.no-list-style {
+    list-style-type: none;
+    padding-left: 0;
+    padding-right: 10px;
+}
+.show {
+    padding-left: 20px;
+}
+#welcome {
+    float: right;
+}
+h1,
+h3,
+p,
+ul {
+    color: white;
+}
